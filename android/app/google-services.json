@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1089028282766",
+    "project_id": "accountapp-8a1a9",
+    "storage_bucket": "accountapp-8a1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089028282766:android:793e1bde8d11913c79ecdf",
+        "android_client_info": {
+          "package_name": "com.accountant_shellcode.accountant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089028282766-pf0bfgl7mjd5d8f0jdm5823tvh6ult0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCctRhL9Ky8k4kKS8IoDUb1s7HShKhNXLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089028282766-pf0bfgl7mjd5d8f0jdm5823tvh6ult0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089028282766-gifg755lmtm9v3teijhgmlkvmret4kh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.accountantshellcode.accountantApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089028282766:android:3c4a340da5b3cb3e79ecdf",
+        "android_client_info": {
+          "package_name": "com.example.accoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089028282766-pf0bfgl7mjd5d8f0jdm5823tvh6ult0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCctRhL9Ky8k4kKS8IoDUb1s7HShKhNXLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089028282766-pf0bfgl7mjd5d8f0jdm5823tvh6ult0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089028282766-gifg755lmtm9v3teijhgmlkvmret4kh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.accountantshellcode.accountantApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
